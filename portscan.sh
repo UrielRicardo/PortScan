@@ -2,6 +2,9 @@
 hosts=(
 "google.com"
 "xvideos.com"
+"youtube.com"
+"github.com"
+"qualqueroutrosite.com"
 )
 for host in "${hosts[@]}"
 do
