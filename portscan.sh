@@ -13,3 +13,4 @@ do
       echo "(echo > /dev/tcp/$host/$port) 2>/dev/null && echo Host:$host Port:$port is open"
    done
 done | parallel -k -j 32
+#meu pato no uno  fds 
